@@ -1,0 +1,14 @@
+{
+  "applets": [{
+    "lastAccessTime": "2026-10-10T00:12:32.930932Z",
+    "firstAccessTime": "2026-10-09T21:02:37.037410Z",
+    "source": {
+      "sourceType": "SPANNER",
+      "spanner": {
+        "id": "88c48f54-12aa-45af-8dd5-75faf38aac04"
+      }
+    },
+    "name": "Kenrey Real Estate PropTech Engine",
+    "description": "Plataforma de inteligencia de inversión inmobiliaria, prospección de compradores de alta intención y asesoría patrimonial en República Dominicana."
+  }]
+}
